@@ -2,7 +2,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Sample documents
 Documents = [ 
-    "Some nigga wanted to eat a Burger",
+    "Some Guy wanted to eat a Burger",
     "He went to a food street",
     "He couldn't find anything suitable for him to eat",
     "At the End, he came to know the reason of starvation",
